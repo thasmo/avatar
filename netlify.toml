@@ -1,0 +1,8 @@
+[build]
+	publish = "public/"
+
+[[redirects]]
+	from = "/"
+	to = "/avatar.png"
+	status = 200
+	force = true
