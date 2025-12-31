@@ -1,0 +1,14 @@
+{
+	"name": "thasmo-avatar",
+	"main": "./src/index.js",
+	"compatibility_date": "2025-12-31",
+	"observability": {
+		"enabled": true
+	},
+	"routes": [
+		{
+			"pattern": "avatar.thasmo.com",
+			"custom_domain": true
+		}
+	]
+}
